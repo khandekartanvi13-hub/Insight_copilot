@@ -153,7 +153,7 @@ Users can ask questions such as:
 
 **Streamlit App:**
 
-[Launch Insight Copilot](https://insightcopilot-2tvaa4cawqf9hvzweoeqhj.streamlit.app/)]
+[Launch Insight Copilot](https://insightcopilot-2tvaa4cawqf9hvzweoeqhj.streamlit.app/)
 
 ## 👩‍💻 Author
 
