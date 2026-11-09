@@ -40,10 +40,6 @@ Insight Copilot follows a tool-using agent architecture implemented using LangGr
 
 The workflow uses a typed state and conditional edges to manage execution.
 
-
-**Even easier:** You can copy the entire block below in one go:
-
-```markdown
 ```mermaid
 flowchart TD
     A([User Question]) --> B[Planning Node]
@@ -55,6 +51,8 @@ flowchart TD
     C -.-> G[(Typed State)]
     B -.-> G
     E -.-> G
+```
+
 
 
 
