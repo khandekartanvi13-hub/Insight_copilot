@@ -151,7 +151,9 @@ Users can ask questions such as:
 
 ## 🌐 Live Application
 
-**Streamlit App:** [Add your deployed Streamlit URL here]
+**Streamlit App:**
+
+[Launch Insight Copilot](https://insightcopilot-2tvaa4cawqf9hvzweoeqhj.streamlit.app/)]
 
 ## 👩‍💻 Author
 
